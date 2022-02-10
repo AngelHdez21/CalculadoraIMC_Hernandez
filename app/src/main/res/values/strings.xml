@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asignacion04_CalculadoraIMC_Hernandez</string>
+    <string name="estatura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="calcular">CALCULAR IMC</string>
+    <string name="resultado">Resultado:</string>
+    <string name="estado">Estado:</string>
+</resources>
